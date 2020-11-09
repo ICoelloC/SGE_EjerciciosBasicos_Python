@@ -1,6 +1,6 @@
 # SGE_EjerciciosBasicos_Python
 
-##Autor:
+## Autor:
         Iván Coello Cortés
 
 #### Hojas de Ejercicios:
