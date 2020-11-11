@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 print("Calculadora Iván Coello")
 
 n1 = float(input("Introduce el valor1: "))

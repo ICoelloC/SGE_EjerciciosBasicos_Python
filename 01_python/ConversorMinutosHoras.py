@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 print("Conversor de minutos a horas")
 minutos = int(input("Introduce los minutos: "))
 print()

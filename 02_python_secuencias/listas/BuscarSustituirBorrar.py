@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 print("======================= BUSCAR, SUSTITUIR, BORRAR =======================")
 
 lista = ["Hola", "Mundo", "esto", "es", "Python", "me", "llamo", "Ivan", "esto", "es", "una", "lista"]

@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 print("Vamos a calcular el permietro y area de un cuadrado")
 lado = int(input("Introduce el lado: "))
 perimetro = lado * 4
