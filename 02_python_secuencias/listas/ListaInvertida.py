@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 print("Ejercicio lista invertida")
 lista = ["hola", "mundo", "esto", "es", "prueba"]
 listaInvertida = reversed(lista)

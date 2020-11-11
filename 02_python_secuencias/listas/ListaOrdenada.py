@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 # lista = [1, 2, 3, 4]
 lista = [4, 1, 3, 2]
 lista2 = lista[:]

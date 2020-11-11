@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 import os
 
 NUM_SECRETO = int(input("Introduce el numero secreto: "))

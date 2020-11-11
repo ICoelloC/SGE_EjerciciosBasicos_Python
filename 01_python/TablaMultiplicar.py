@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 print("Tabla de multiplicar Iván Coello")
 print()
 numero = int(input("Tabla de multiplicar del numero: "))

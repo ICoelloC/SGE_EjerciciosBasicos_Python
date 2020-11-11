@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 cadena = input("Introduce una cadena: ")
 lista = cadena.split(" ")
 acronimo = ""

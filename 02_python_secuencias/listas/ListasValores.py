@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 lista1 = ["Hola", "Mundo", "esto", "es", "Python", ",", "me", "llamo", "Ivan", ",", "y", "esto", "es", "una", "lista"]
 lista2 = ["Esta", "es", "otra", "lista", ",", "en", "esta", "lista", "no", "se", "que", "mas", "poner", "en", "ella"]
 

@@ -1,3 +1,4 @@
+#! /usr/bin/env python
 print("¿Es año bisiesto?")
 anio = int(input('Introduce un año: '))
 
