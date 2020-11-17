@@ -12,6 +12,6 @@ if __name__ == '__main__':
     palabrasMorse = palabraEnMorse.split(" ")
     palabra = ""
     for cod in palabrasMorse:
-        letra = [key for key, valor in codigo.items() if valor == cod][0]
+        letra = [caracter for caracter, valor in codigo.items() if valor == cod][0]
         palabra = palabra + letra
     print(palabra)
