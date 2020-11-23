@@ -9,9 +9,9 @@ if __name__ == '__main__':
         contenido = "0"
         fichero.write(contenido)
     contador = int(contenido)
-    if sys.argv[0] == "inc":
+    if sys.argv[1] == "inc":
         contador += 1
-    elif sys.argv[0] == "dec":
+    elif sys.argv[1] == "dec":
         contador -= 1
     print(contador)
     fichero.write(str(contador))
