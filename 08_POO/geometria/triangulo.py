@@ -1,5 +1,6 @@
 from poligono import Poligono
 
+
 class Triangulo(Poligono):
 
     def __init__(self, base, altura, *args):
@@ -28,5 +29,4 @@ class Triangulo(Poligono):
 
     def getArea(self):
         """Devuelve el área de un triángulo"""
-        return self.base*self.altura/2
-
+        return self.base * self.altura / 2
