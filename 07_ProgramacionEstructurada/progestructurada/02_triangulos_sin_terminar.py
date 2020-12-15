@@ -1,11 +1,11 @@
 def anadirTriangulo():
     nombre_triangulo = "Triangulo ", contador_triangulos
     coordenada_x = int(input("Indica la primera coordenada"))
-    coordenadaY = int(input("Indica la segunda coordenada"))
-    area = calcularArea(coordenada_x, coordenadaY)
+    coordenada_y = int(input("Indica la segunda coordenada"))
+    area = calcularArea(coordenada_x, coordenada_y)
     longitud = calcular_longitud()
 
-    diccionarioTriangulos[nombre_triangulo] = coordenada_x, coordenadaY, area, longitud
+    diccionarioTriangulos[nombre_triangulo] = coordenada_x, coordenada_y, area, longitud
     print(diccionarioTriangulos)
 
 
