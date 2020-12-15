@@ -30,10 +30,10 @@ def buscar_alumnos(almacen, **kwargs):
         except KeyError:
             pass
     else:
-        almacenFiltrado = almacen.values()
-        for alumno in almacenFiltrado:
-            alumnoBuscado = cumple_filtro_alumnos(alumno, kwargs)
-            if alumnoBuscado:
+        almacen_filtrado = almacen.values()
+        for alumno in almacen_filtrado:
+            alumno_buscado = cumple_filtro_alumnos(alumno, kwargs)
+            if alumno_buscado:
                 resultados_busqueda.append(alumno)
 
     return resultados_busqueda
