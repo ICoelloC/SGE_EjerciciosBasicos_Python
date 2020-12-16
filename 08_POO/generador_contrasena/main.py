@@ -6,7 +6,7 @@ def numPassword():
     npassword = 0
     while not valorcorrecto:
         try:
-            npassword = input("Introduce el numeor de passwords que qioeres generar: ")
+            npassword = input("Introduce el numero de passwords que qioeres generar: ")
             npassword = int(npassword)
             valorcorrecto = True
         except ValueError:
